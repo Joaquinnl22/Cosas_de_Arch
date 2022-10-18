@@ -3,6 +3,8 @@ Cosas que se me olvidan cuando uso arch
 
 # Solciones para el update del sistema:
 
- pacman-key --init 
- pacman-key --populate archlinux 
- pacman-key --refresh-keys 
+1. pacman-key --init 
+ 
+2. pacman-key --populate archlinux 
+ 
+3. pacman-key --refresh-keys 
